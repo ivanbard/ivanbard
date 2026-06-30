@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://bardz.ca">Website</a> /
-  <a href="https://github.com/ivanbard">GitHub</a> /
-  <a href="https://www.linkedin.com/in/ivanbardziyan/">LinkedIn</a> /
-  <a href="mailto:ivanbardziyan@gmail.com">Email</a>
+  <a href="https://bardz.ca">
+    <img src="https://img.shields.io/badge/Website-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=vercel&logoColor=1f1f1b" alt="Website" />
+  </a>
+  <a href="https://github.com/ivanbard">
+    <img src="https://img.shields.io/badge/GitHub-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=github&logoColor=1f1f1b" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivanbardziyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=linkedin&logoColor=1f1f1b" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ivanbardziyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=gmail&logoColor=1f1f1b" alt="Email" />
+  </a>
 </p>
 
 I build software and write about systems, machine learning, and product work.
