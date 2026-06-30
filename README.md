@@ -1,75 +1,44 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Ivan Bardziyan - computer engineering student and data engineer" />
+</p>
 
-![Ivan Bardziyan](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=190&section=header&text=Ivan%20Bardziyan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Engineering%20@%20Queen%27s%20University&descAlignY=58&descSize=18)
+<p align="center">
+  <a href="https://bardz.ca">Website</a> /
+  <a href="https://github.com/ivanbard">GitHub</a> /
+  <a href="https://www.linkedin.com/in/ivanbardziyan/">LinkedIn</a> /
+  <a href="mailto:ivanbardziyan@gmail.com">Email</a>
+</p>
 
-### I build thoughtful software, hardware-adjacent tools, and experiments that turn messy ideas into working systems.
+## Intro
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bardz.ca-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://bardz.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-ivanbard-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanbard)
-[![Email](https://img.shields.io/badge/Email-Let%27s%20talk-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbardziyan@gmail.com)
+Computer engineering student and data engineer building software and writing about systems, machine learning, and product work.
 
-</div>
+Based in Toronto and Kingston. Currently working as a Data Engineer at Royal Bank of Canada and studying at Queen's University.
 
----
+## Index
 
-## About
+| Section | Notes |
+| --- | --- |
+| [Writing](https://bardz.ca/blog) | Notes on systems, machine learning, and engineering work. |
+| [Projects](https://bardz.ca/projects) | Software projects, hardware-adjacent tooling, and experiments. |
+| [About](https://bardz.ca/about) | Background, current work, and what I am learning next. |
 
-I'm a computer engineering student in Toronto with a taste for tools that feel sharp, systems that explain themselves, and projects that sit somewhere between product, infrastructure, and low-level curiosity.
-
-Right now, I am especially interested in:
-
-- hardware verification, simulators, and developer tooling
-- full-stack products with clean interaction design
-- automation that removes boring friction
-- applied algorithms, distributed systems, and performance-minded engineering
-
-## Toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-6B7280?style=flat-square&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
-
-</div>
-
-## Featured Work
+## Selected Work
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [telchines](https://github.com/ivanbard/telchines) | Hardware verification toolkit and framework | Python |
-| [my-portfolio](https://github.com/ivanbard/my-portfolio) | Personal site and portfolio homebase | JavaScript |
-| [GPU-sim](https://github.com/ivanbard/GPU-sim) | Small-scale GPU simulator for parallel compute | C++ |
-| [crypto-similarity](https://github.com/ivanbard/crypto-similarity) | Similarity experiments across crypto data | Python |
+| [Telchines](https://github.com/ivanbard/telchines) | CLI-first hardware verification toolkit for replayable retrieval, repair, triage, SVA/cocotb generation, adapters, and validation workflows. | Python, Hardware Verification, CLI |
+| [Goldilocks Kingston](https://goldilocks-tau.vercel.app) | Smart home climate advisor using IoT sensor data, AI recommendations, electricity-rate awareness, savings tracking, and environmental impact views. | Next.js, IoT, AI |
+| [GPU Simulator](https://github.com/ivanbard/GPU-sim) | Small-scale C++ GPU simulator focused on parallel compute concepts and systems-level architecture. | C++, Systems, Parallel Compute |
+| [muscl3.com](https://muscl3.com) | Interactive 3D muscle map and exercise recommender for exploring training guidance visually. | React, 3D, Health Tech |
+| [ASL Vision Interpreter](https://github.com/ivanbard/Elec376_F25_group13) | C++/OpenCV ASL transcription project using webcam input, hand detection, landmark extraction, and MediaPipe/OpenCV DNN support. | C++, OpenCV, Computer Vision |
 
-## Signal
+## Toolkit
 
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanbard&theme=tokyonight&hide_border=true" alt="Ivan's GitHub streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanbard&theme=tokyo-night&hide_border=true&height=260" alt="Ivan's GitHub activity graph" />
-
-</div>
+`Python` / `TypeScript` / `JavaScript` / `C++` / `React` / `Vite` / `OpenCV` / `Verilog` / `Git` / `Linux`
 
 ## Connect
 
-I am always happy to talk about systems, product ideas, engineering internships, hardware projects, or ambitious side quests that need a builder.
+I am always happy to talk about systems, product ideas, engineering internships, hardware projects, or ambitious side projects that need a builder.
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/bardz.ca-Visit%20site-14b8a6?style=for-the-badge)](https://bardz.ca)
-[![Email](https://img.shields.io/badge/ivanbardziyan%40gmail.com-Say%20hello-2563eb?style=for-the-badge)](mailto:ivanbardziyan@gmail.com)
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:2563eb,100:0f172a&height=100&section=footer)
-
-</div>
+[bardz.ca](https://bardz.ca) / [ivanbardziyan@gmail.com](mailto:ivanbardziyan@gmail.com) / `Toronto / Kingston`
