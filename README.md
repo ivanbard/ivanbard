@@ -23,6 +23,8 @@ I build software and write about systems, machine learning, and product work.
 
 Currently studying at Queen's University, working in data engineering, and exploring the space between reliable systems, useful tools, and thoughtful interfaces.
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/ivanbard/svg?template=minimal&color=monochrome&tokens=compact&cost=compact)](https://tokscale.ai/u/ivanbard)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=python&logoColor=1f1f1b" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-f7f5ef?style=flat-square&labelColor=f7f5ef&color=c8c1b2&logo=typescript&logoColor=1f1f1b" alt="TypeScript" />
